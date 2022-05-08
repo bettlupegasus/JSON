@@ -1,1 +1,6 @@
-
+{
+  "project":"name",
+  "component":"head",
+  "version":"0.0",
+  "severity":"trivial"
+}
