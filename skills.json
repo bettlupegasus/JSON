@@ -1,4 +1,12 @@
 {
-	"hard skills":"
-	"soft skills":"
+	"hard skills": [
+		"Manual testing",
+		"Smoke testing",
+		"Regress testing"
+	],
+	"soft skills":[
+		"Conflict Resolution",
+		"Teamwork",
+		"Responsibility"
+	]
 }
